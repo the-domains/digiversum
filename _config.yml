@@ -1,14 +1,28 @@
+name: Digiversum
+favicon: null
 layout_spectrum: 0.01699247
 typography_spectrum: 0.02911267
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.8286412
-  lightness: 0.8804316
-  brandStrength: 0.02624664
-  rhythmicContrast: 0.2048069
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
-name: Digiversum
+    - '#ed1c24'
+    - '#4d4d4d'
+    - '#000000'
+    - '#2b2b2b'
+    - '#800000'
+  brandStrength: 0
+  lightness: 0.8804316
+  saturation: 0.8286412
+  rhythmicContrast: 0.2048069
+purpose: []
