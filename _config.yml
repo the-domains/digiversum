@@ -1,4 +1,5 @@
-layout_spectrum: 0.2616487
+favicon: null
+name: Digiversum
 opengraph:
   image: null
   type: null
@@ -28,13 +29,12 @@ color:
     - '#800000'
   rhythmicContrast: 0.2048069
 typography_spectrum: 0.15098
-cta:
-  bucket: null
-  version: null
-  domain: null
+layout_spectrum: 1
 analytics:
   twitter: null
   google: null
   facebook: null
-favicon: null
-name: Digiversum
+cta:
+  bucket: null
+  version: null
+  domain: null
